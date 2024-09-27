@@ -1,4 +1,4 @@
-// Using this code without obsfuscation is strictly prohibited !
+// Usingthis code without obsfuscation is strictly prohibited !
 // If this is discovered, an arbitration will be written
 // You can hide this script here: obfuscator.io
 
